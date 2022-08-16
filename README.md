@@ -6,7 +6,8 @@ Root 7'dir.
 
 5 < 7 yani soluna ekledik.
 
-
+| | | |
+|-|-|-|
 |  |  | 7 |
 |  | \ |  |
 | 5 |  |  |
