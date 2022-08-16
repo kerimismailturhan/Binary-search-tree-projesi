@@ -15,6 +15,7 @@ Root 7'dir.
 1 < 7 ve 1 < 5 olduğundan 5'in soluna ekledik.
 
 | | | | | |
+|-|-|-|-|-|
 |  |  |  |  | 7 |
 |  |  |  | / |  |
 |  |  | 5 |  |  |
