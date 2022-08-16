@@ -8,6 +8,6 @@ Root 7'dir.
 
 | | | |
 |-|-|-|
-|__Bold Key__| Value1 |
+|  |  | 7 |
 | Normal Key | Value2 |
 
