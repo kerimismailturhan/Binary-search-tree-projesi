@@ -6,7 +6,7 @@ Root 7'dir.
 
 5 < 7 yani soluna ekledik.
 
-
+| | | |
 |-|-|-|
 |  |  | 7 |
 |  | / |  |
@@ -21,4 +21,10 @@ Root 7'dir.
 |  |  | 5 |  |  |
 |  | / |  |  |  |
 | 1 |  |  |  |  |
+
+8 > 7 olduğundan 7'nin sağına ekledik.
+
+| | | | | | | |
+|-|-|-|-|-|-|-|
+
 
