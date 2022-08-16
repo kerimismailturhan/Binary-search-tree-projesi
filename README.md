@@ -6,5 +6,8 @@ Root 7'dir.
 
 5 < 7 yani soluna ekledik.
 
-|merhaba|ede|54543|
+| | | |
+|-|-|-|
+|__Bold Key__| Value1 |
+| Normal Key | Value2 |
 
